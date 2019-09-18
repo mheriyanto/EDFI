@@ -1,4 +1,7 @@
 [![HitCount](http://hits.dwyl.com/mheriyanto/EDFI.svg)](http://hits.dwyl.com/mheriyanto/EDFI)
+![GitHub language count](https://img.shields.io/github/languages/count/mheriyanto/EDFI)
+![GitHub top language](https://img.shields.io/github/languages/top/mheriyanto/EDFI)
+
 
 # EDFI
 EDFI is a script to extract data from an 2D or 3D image. 
