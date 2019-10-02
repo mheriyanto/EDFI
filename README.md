@@ -2,6 +2,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/mheriyanto/EDFI)
 ![GitHub top language](https://img.shields.io/github/languages/top/mheriyanto/EDFI)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/EDFI)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mheriyanto/EDFI)
+
 
 # EDFI
 EDFI is a script to extract data from an 2D or 3D image. 
