@@ -1,9 +1,9 @@
 [![HitCount](http://hits.dwyl.com/mheriyanto/EDFI.svg)](http://hits.dwyl.com/mheriyanto/EDFI)
 ![GitHub language count](https://img.shields.io/github/languages/count/mheriyanto/EDFI)
 ![GitHub top language](https://img.shields.io/github/languages/top/mheriyanto/EDFI)
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/EDFI)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mheriyanto/EDFI)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://id.linkedin.com/in/mheriyanto)
 
 
 # EDFI
