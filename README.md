@@ -9,8 +9,18 @@
 # EDFI
 EDFI is a script to extract data from an 2D or 3D image. 
 EDFI is developed using [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/72779-edfi) and these steps below:
-1. Load image. I get this image from [here](http://jme.shahroodut.ac.ir/article_953_0.html)
-2. Get data from image. 
-3. Plot result.
+1. **Load image** ([input.png](https://github.com/mheriyanto/EDFI/blob/master/images/input.png)). I get this image from [here](http://jme.shahroodut.ac.ir/article_953_0.html)
+
+<p align="center">
+<img src="https://github.com/mheriyanto/EDFI/blob/master/images/input.png" width="80%">
+</p>
 
 <img src="images/extract.png" width="900" height="300"></img>
+
+2. Get data from image using [extract_contour.m](https://github.com/mheriyanto/EDFI/blob/master/extract_contour.m) and get data as [result.mat](https://github.com/mheriyanto/EDFI/blob/master/result.mat). 
+
+3. Plot result.mat using [plotting.m](https://github.com/mheriyanto/EDFI/blob/master/plotting.m).
+
+<p align="center">
+<img src="https://github.com/mheriyanto/EDFI/blob/master/images/extract.png" width="80%">
+</p>
