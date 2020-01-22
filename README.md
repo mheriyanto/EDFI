@@ -15,11 +15,9 @@ EDFI is developed using [MATLAB](https://www.mathworks.com/matlabcentral/fileexc
 <img src="https://github.com/mheriyanto/EDFI/blob/master/images/input.png" width="80%">
 </p>
 
-<img src="images/extract.png" width="900" height="300"></img>
+2. **Get data** from image using [extract_contour.m](https://github.com/mheriyanto/EDFI/blob/master/extract_contour.m) and get data as [result.mat](https://github.com/mheriyanto/EDFI/blob/master/result.mat). 
 
-2. Get data from image using [extract_contour.m](https://github.com/mheriyanto/EDFI/blob/master/extract_contour.m) and get data as [result.mat](https://github.com/mheriyanto/EDFI/blob/master/result.mat). 
-
-3. Plot result.mat using [plotting.m](https://github.com/mheriyanto/EDFI/blob/master/plotting.m).
+3. **Plot result** (result.mat) using [plotting.m](https://github.com/mheriyanto/EDFI/blob/master/plotting.m).
 
 <p align="center">
 <img src="https://github.com/mheriyanto/EDFI/blob/master/images/extract.png" width="80%">
