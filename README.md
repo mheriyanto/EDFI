@@ -7,7 +7,7 @@
 
 
 # EDFI
-EDFI is a script to extract data from an 2D or 3D image. 
+EDFI is a open-source script to extract data from an 2D or 3D image. 
 EDFI is developed using [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/72779-edfi) and these steps below:
 1. **Load image** ([input.png](https://github.com/mheriyanto/EDFI/blob/master/images/input.png)). I get this image from [here](http://jme.shahroodut.ac.ir/article_953_0.html)
 
