@@ -22,3 +22,6 @@ EDFI is developed using [MATLAB](https://www.mathworks.com/matlabcentral/fileexc
 <p align="center">
 <img src="https://github.com/mheriyanto/EDFI/blob/master/images/extract.png" width="100%">
 </p>
+
+## License
+EDFI is released under the MIT License (refer to the [LICENSE](https://github.com/mheriyanto/EDFI/blob/master/LICENSE) file for details).
