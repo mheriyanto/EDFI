@@ -25,3 +25,7 @@ EDFI is developed using [MATLAB](https://www.mathworks.com/matlabcentral/fileexc
 
 ## License
 EDFI is released under the MIT License (refer to the [LICENSE](https://github.com/mheriyanto/EDFI/blob/master/LICENSE) file for details).
+
+## References
++ (**code**) [EBH](https://stackoverflow.com/users/2627163/ebh). Extracting data from pixels of a contour plot figure in Python or MATLAB. [stackoverflow.com](https://stackoverflow.com/questions/44434576/extracting-data-from-pixels-of-a-contour-plot-figure-in-python-or-matlab). 
++ (**image**) M. Rezaie and S. Moazam. Journal of Mining & Environment,Vol.8, No.3, 2017, 501-510. DOI: 10.22044/jme.2017.953 [download](http://jme.shahroodut.ac.ir/article_953_4d67041e14676346e9e244025ebae164.pdf)
