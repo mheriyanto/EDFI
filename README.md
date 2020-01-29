@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/205755027.svg)](https://zenodo.org/badge/latestdoi/205755027)
+
 # EDFI
 
 [![HitCount](http://hits.dwyl.com/mheriyanto/EDFI.svg)](http://hits.dwyl.com/mheriyanto/EDFI)
@@ -29,3 +31,17 @@ EDFI is released under the MIT License (refer to the [LICENSE](https://github.co
 ## References
 + (**code**) [EBH](https://stackoverflow.com/users/2627163/ebh). Extracting data from pixels of a contour plot figure in Python or MATLAB. [stackoverflow.com](https://stackoverflow.com/questions/44434576/extracting-data-from-pixels-of-a-contour-plot-figure-in-python-or-matlab). 
 + (**image**) M. Rezaie and S. Moazam. Journal of Mining & Environment,Vol.8, No.3, 2017, 501-510. DOI: 10.22044/jme.2017.953 [download](http://jme.shahroodut.ac.ir/article_953_4d67041e14676346e9e244025ebae164.pdf)
+
+## Citation
+If you find this project useful for your research, please use the following BibTeX entry.
+
+    @software{m_heriyanto_2020_3629944,
+    author       = {M. Heriyanto},
+    title        = {mheriyanto/EDFI: EDFI v.0.0.2},
+    month        = jan,
+    year         = 2020,
+    publisher    = {Zenodo},
+    version      = {v.0.0.2},
+    doi          = {10.5281/zenodo.3629944},
+    url          = {https://doi.org/10.5281/zenodo.3629944}
+    }
