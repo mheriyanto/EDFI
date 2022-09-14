@@ -35,7 +35,8 @@ EDFI is released under the MIT License (refer to the [LICENSE](https://github.co
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
 
-    @software{m_heriyanto_2020_3629944,
+```BibTeX
+@software{m_heriyanto_2020_3629944,
     author       = {M. Heriyanto},
     title        = {mheriyanto/EDFI: EDFI v.0.0.2},
     month        = jan,
@@ -44,4 +45,5 @@ If you find this project useful for your research, please use the following BibT
     version      = {v.0.0.2},
     doi          = {10.5281/zenodo.3629944},
     url          = {https://doi.org/10.5281/zenodo.3629944}
-    }
+}
+```
